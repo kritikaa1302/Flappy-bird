@@ -1,5 +1,3 @@
-//===============board===============
-
 let board;
 let boardWidth=360;
 let boardHeight=640;
@@ -19,8 +17,6 @@ let bird = {
     height:birdHeight
 
 }
-
-//==================pipes====================
 let pipeArray=[];
 let pipeWidth=80;
 let pipeHeight=500;
